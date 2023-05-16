@@ -792,8 +792,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FirstMousePosition: {x: 0, y: 0, z: 0}
   CurrentPoint: {x: 0, y: 0}
-  min: 1
+  mul: 2.5
   point: {x: 0, y: 0, z: 0}
+  distance: 0.25
+  upmin: 2.5
+  MaxLong: 3.5
+  MaxShootPower: 10
 --- !u!212 &1653828696
 SpriteRenderer:
   m_ObjectHideFlags: 0
